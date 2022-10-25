@@ -3,6 +3,7 @@ title: "Simple document"
 output: github_document
 ---
 
+Try to push on github
 I'm an R Markdown document! 
 
 # Section 1

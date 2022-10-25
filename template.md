@@ -1,7 +1,7 @@
 Simple document
 ================
 
-I’m an R Markdown document!
+Try to push on github I’m an R Markdown document!
 
 # Section 1
 
@@ -16,4 +16,4 @@ length(samp)
 
 # Section 2
 
-I can take the mean of the sample, too! The mean is 0.0190359.
+I can take the mean of the sample, too! The mean is 0.0232147.
